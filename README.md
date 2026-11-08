@@ -5,7 +5,7 @@ Before building, make sure you have Rust with Cargo installed. Also, Git is requ
 ### Steps
 1. Clone the repo and go to it's directory
 ```bash
-git clone https://github.com/imguest24897-alt/UltiVM.git ; cd UltiVM
+git clone https://github.com/imguest24897-alt/UltiVM_classic.git ; cd UltiVM
 ```
 1. Get some of the submodules
 ```bash
